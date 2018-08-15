@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.xuzhu.fmsfinanceproductservice.FmsFinanceproductServiceApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 13.02 sec - in com.xuzhu.fmsfinanceproductservice.FmsFinanceproductServiceApplicationTests

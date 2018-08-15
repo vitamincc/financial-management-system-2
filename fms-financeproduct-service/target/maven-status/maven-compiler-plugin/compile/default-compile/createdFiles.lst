@@ -1,0 +1,12 @@
+com\xuzhu\fmsfinanceproductservice\domain\ExpenseItem.class
+com\xuzhu\fmsfinanceproductservice\service\FinanceProductServiceImpl.class
+com\xuzhu\fmsfinanceproductservice\FmsFinanceproductServiceApplication.class
+com\xuzhu\fmsfinanceproductservice\client\IncomeClient.class
+com\xuzhu\fmsfinanceproductservice\controller\FinanceProductController.class
+com\xuzhu\fmsfinanceproductservice\domain\Account.class
+com\xuzhu\fmsfinanceproductservice\service\FinanceProductService.class
+com\xuzhu\fmsfinanceproductservice\domain\IncomeItem.class
+com\xuzhu\fmsfinanceproductservice\DAO\AccountDAO.class
+com\xuzhu\fmsfinanceproductservice\client\ExpenseClient.class
+com\xuzhu\fmsfinanceproductservice\domain\Item.class
+com\xuzhu\fmsfinanceproductservice\config\AuthConfig.class
